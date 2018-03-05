@@ -1,0 +1,14 @@
+C:\Users\noels\source\repos\Hoofdstuk2\Hello Button\Oef6\obj\Debug\MainWindow.g.cs
+C:\Users\noels\source\repos\Hoofdstuk2\Hello Button\Oef6\obj\Debug\App.g.cs
+C:\Users\noels\source\repos\Hoofdstuk2\Hello Button\Oef6\obj\Debug\Oef6_MarkupCompile.cache
+C:\Users\noels\source\repos\Hoofdstuk2\Hello Button\Oef6\obj\Debug\Oef6_MarkupCompile.lref
+C:\Users\noels\source\repos\Hoofdstuk2\Hello Button\Oef6\bin\Debug\Oef6.exe.config
+C:\Users\noels\source\repos\Hoofdstuk2\Hello Button\Oef6\bin\Debug\Oef6.exe
+C:\Users\noels\source\repos\Hoofdstuk2\Hello Button\Oef6\bin\Debug\Oef6.pdb
+C:\Users\noels\source\repos\Hoofdstuk2\Hello Button\Oef6\obj\Debug\MainWindow.baml
+C:\Users\noels\source\repos\Hoofdstuk2\Hello Button\Oef6\obj\Debug\Oef6.g.resources
+C:\Users\noels\source\repos\Hoofdstuk2\Hello Button\Oef6\obj\Debug\Oef6.Properties.Resources.resources
+C:\Users\noels\source\repos\Hoofdstuk2\Hello Button\Oef6\obj\Debug\Oef6.csproj.GenerateResource.Cache
+C:\Users\noels\source\repos\Hoofdstuk2\Hello Button\Oef6\obj\Debug\Oef6.csproj.CoreCompileInputs.cache
+C:\Users\noels\source\repos\Hoofdstuk2\Hello Button\Oef6\obj\Debug\Oef6.exe
+C:\Users\noels\source\repos\Hoofdstuk2\Hello Button\Oef6\obj\Debug\Oef6.pdb

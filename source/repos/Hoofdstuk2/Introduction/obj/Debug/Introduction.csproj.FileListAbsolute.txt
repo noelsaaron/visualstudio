@@ -1,0 +1,15 @@
+C:\Users\noels\source\repos\Hoofdstuk2\Introduction\bin\Debug\Introduction.exe.config
+C:\Users\noels\source\repos\Hoofdstuk2\Introduction\bin\Debug\Introduction.exe
+C:\Users\noels\source\repos\Hoofdstuk2\Introduction\bin\Debug\Introduction.pdb
+C:\Users\noels\source\repos\Hoofdstuk2\Introduction\obj\Debug\Introduction.csprojResolveAssemblyReference.cache
+C:\Users\noels\source\repos\Hoofdstuk2\Introduction\obj\Debug\MainWindow.g.cs
+C:\Users\noels\source\repos\Hoofdstuk2\Introduction\obj\Debug\App.g.cs
+C:\Users\noels\source\repos\Hoofdstuk2\Introduction\obj\Debug\Introduction_MarkupCompile.cache
+C:\Users\noels\source\repos\Hoofdstuk2\Introduction\obj\Debug\Introduction_MarkupCompile.lref
+C:\Users\noels\source\repos\Hoofdstuk2\Introduction\obj\Debug\MainWindow.baml
+C:\Users\noels\source\repos\Hoofdstuk2\Introduction\obj\Debug\Introduction.g.resources
+C:\Users\noels\source\repos\Hoofdstuk2\Introduction\obj\Debug\Introduction.Properties.Resources.resources
+C:\Users\noels\source\repos\Hoofdstuk2\Introduction\obj\Debug\Introduction.csproj.GenerateResource.Cache
+C:\Users\noels\source\repos\Hoofdstuk2\Introduction\obj\Debug\Introduction.csproj.CoreCompileInputs.cache
+C:\Users\noels\source\repos\Hoofdstuk2\Introduction\obj\Debug\Introduction.exe
+C:\Users\noels\source\repos\Hoofdstuk2\Introduction\obj\Debug\Introduction.pdb

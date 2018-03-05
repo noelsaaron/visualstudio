@@ -1,0 +1,9 @@
+C:\Users\noels\source\repos\web-essentials\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\noels\source\repos\web-essentials\WebApplication1\bin\WebApplication1.dll
+C:\Users\noels\source\repos\web-essentials\WebApplication1\bin\WebApplication1.pdb
+C:\Users\noels\source\repos\web-essentials\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\noels\source\repos\web-essentials\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\noels\source\repos\web-essentials\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\noels\source\repos\web-essentials\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\noels\source\repos\web-essentials\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\noels\source\repos\web-essentials\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache

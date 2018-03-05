@@ -1,0 +1,9 @@
+C:\Users\noels\source\repos\web-essentials\vraag1\bin\vraag1.dll.config
+C:\Users\noels\source\repos\web-essentials\vraag1\bin\vraag1.dll
+C:\Users\noels\source\repos\web-essentials\vraag1\bin\vraag1.pdb
+C:\Users\noels\source\repos\web-essentials\vraag1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\noels\source\repos\web-essentials\vraag1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\noels\source\repos\web-essentials\vraag1\obj\Debug\vraag1.csprojResolveAssemblyReference.cache
+C:\Users\noels\source\repos\web-essentials\vraag1\obj\Debug\vraag1.csproj.CoreCompileInputs.cache
+C:\Users\noels\source\repos\web-essentials\vraag1\obj\Debug\vraag1.dll
+C:\Users\noels\source\repos\web-essentials\vraag1\obj\Debug\vraag1.pdb

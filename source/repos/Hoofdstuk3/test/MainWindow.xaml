@@ -1,0 +1,20 @@
+﻿<Window x:Class="test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:test"
+        mc:Ignorable="d"
+        Title="Teken programma" Height="350" Width="525">
+    <Grid>
+        <Canvas x:Name="MYcanvas" HorizontalAlignment="Left" Height="256" Margin="100,29,0,0" VerticalAlignment="Top" Width="392"/>
+        <Button x:Name="Lijn" Content="Lijn" HorizontalAlignment="Left" Height="33" Margin="10,29,0,0" VerticalAlignment="Top" Width="76" Click="Lijn_Click"/>
+        <Button x:Name="Rectangle" HorizontalAlignment="Left" Height="33" Margin="10,79,0,0" VerticalAlignment="Top" Width="76" Content="Rectangle" Click="Rectangle_Click"/>
+        <Button x:Name="Circle" Content="Circle" HorizontalAlignment="Left" Height="33" Margin="10,132,0,0" VerticalAlignment="Top" Width="76" Click="Circle_Click"/>
+        <Button x:Name="empty" Content="empty" HorizontalAlignment="Left" Height="33" Margin="10,241,0,0" VerticalAlignment="Top" Width="76" Click="empty_Click"/>
+        <Button x:Name="T" Content="Letter T" HorizontalAlignment="Left" Height="33" Margin="10,185,0,0" VerticalAlignment="Top" Width="76" Click="T_Click"/>
+
+
+
+    </Grid>
+</Window>

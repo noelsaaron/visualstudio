@@ -1,0 +1,41 @@
+﻿body {
+    background-color:antiquewhite;
+    font-family:sans-serif;
+}
+table {
+    border-radius: 25px;
+    border: 1pt solid black;
+    color:beige;
+    padding:2px;
+}
+thead {
+    background-color: darkslategrey;
+    border-radius: 25px;
+}
+
+tbody {
+    background-color: darkseagreen;
+    border-radius: 25px;
+}
+
+tbody tr:first-child {
+    background-color:darkslategrey;
+}
+tbody tr td:first-child {
+    background-color:darkslategrey
+}
+tfoot {
+    background-color: forestgreen;
+    border-radius: 25px;
+}
+td {
+    border-radius: 25px;
+    width:150px;
+    padding-left:5px;
+}
+th {
+    border-radius: 25px;
+}
+td:first-child {
+    width:200px;
+}

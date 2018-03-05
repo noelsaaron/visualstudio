@@ -1,0 +1,15 @@
+C:\Users\noels\source\repos\Hoofdstuk5\testvraag 5.5\bin\Debug\testvraag 5.5.exe.config
+C:\Users\noels\source\repos\Hoofdstuk5\testvraag 5.5\bin\Debug\testvraag 5.5.exe
+C:\Users\noels\source\repos\Hoofdstuk5\testvraag 5.5\bin\Debug\testvraag 5.5.pdb
+C:\Users\noels\source\repos\Hoofdstuk5\testvraag 5.5\obj\Debug\testvraag 5.5.csprojResolveAssemblyReference.cache
+C:\Users\noels\source\repos\Hoofdstuk5\testvraag 5.5\obj\Debug\MainWindow.g.cs
+C:\Users\noels\source\repos\Hoofdstuk5\testvraag 5.5\obj\Debug\App.g.cs
+C:\Users\noels\source\repos\Hoofdstuk5\testvraag 5.5\obj\Debug\testvraag 5.5_MarkupCompile.cache
+C:\Users\noels\source\repos\Hoofdstuk5\testvraag 5.5\obj\Debug\testvraag 5.5_MarkupCompile.lref
+C:\Users\noels\source\repos\Hoofdstuk5\testvraag 5.5\obj\Debug\MainWindow.baml
+C:\Users\noels\source\repos\Hoofdstuk5\testvraag 5.5\obj\Debug\testvraag 5.5.g.resources
+C:\Users\noels\source\repos\Hoofdstuk5\testvraag 5.5\obj\Debug\testvraag_5._5.Properties.Resources.resources
+C:\Users\noels\source\repos\Hoofdstuk5\testvraag 5.5\obj\Debug\testvraag 5.5.csproj.GenerateResource.Cache
+C:\Users\noels\source\repos\Hoofdstuk5\testvraag 5.5\obj\Debug\testvraag 5.5.csproj.CoreCompileInputs.cache
+C:\Users\noels\source\repos\Hoofdstuk5\testvraag 5.5\obj\Debug\testvraag 5.5.exe
+C:\Users\noels\source\repos\Hoofdstuk5\testvraag 5.5\obj\Debug\testvraag 5.5.pdb

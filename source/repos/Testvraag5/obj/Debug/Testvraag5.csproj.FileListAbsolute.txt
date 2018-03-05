@@ -1,0 +1,14 @@
+C:\Users\noels\source\repos\Testvraag5\bin\Debug\Testvraag5.exe.config
+C:\Users\noels\source\repos\Testvraag5\bin\Debug\Testvraag5.exe
+C:\Users\noels\source\repos\Testvraag5\bin\Debug\Testvraag5.pdb
+C:\Users\noels\source\repos\Testvraag5\obj\Debug\MainWindow.g.cs
+C:\Users\noels\source\repos\Testvraag5\obj\Debug\App.g.cs
+C:\Users\noels\source\repos\Testvraag5\obj\Debug\Testvraag5_MarkupCompile.cache
+C:\Users\noels\source\repos\Testvraag5\obj\Debug\Testvraag5_MarkupCompile.lref
+C:\Users\noels\source\repos\Testvraag5\obj\Debug\MainWindow.baml
+C:\Users\noels\source\repos\Testvraag5\obj\Debug\Testvraag5.g.resources
+C:\Users\noels\source\repos\Testvraag5\obj\Debug\Testvraag5.Properties.Resources.resources
+C:\Users\noels\source\repos\Testvraag5\obj\Debug\Testvraag5.csproj.GenerateResource.Cache
+C:\Users\noels\source\repos\Testvraag5\obj\Debug\Testvraag5.csproj.CoreCompileInputs.cache
+C:\Users\noels\source\repos\Testvraag5\obj\Debug\Testvraag5.exe
+C:\Users\noels\source\repos\Testvraag5\obj\Debug\Testvraag5.pdb

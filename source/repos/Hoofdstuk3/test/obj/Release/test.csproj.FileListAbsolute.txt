@@ -1,0 +1,15 @@
+C:\Users\noels\source\repos\Hoofdstuk3\test\bin\Release\test.exe.config
+C:\Users\noels\source\repos\Hoofdstuk3\test\bin\Release\test.exe
+C:\Users\noels\source\repos\Hoofdstuk3\test\bin\Release\test.pdb
+C:\Users\noels\source\repos\Hoofdstuk3\test\obj\Release\MainWindow.g.cs
+C:\Users\noels\source\repos\Hoofdstuk3\test\obj\Release\App.g.cs
+C:\Users\noels\source\repos\Hoofdstuk3\test\obj\Release\test_MarkupCompile.cache
+C:\Users\noels\source\repos\Hoofdstuk3\test\obj\Release\test_MarkupCompile.lref
+C:\Users\noels\source\repos\Hoofdstuk3\test\obj\Release\MainWindow.baml
+C:\Users\noels\source\repos\Hoofdstuk3\test\obj\Release\test.g.resources
+C:\Users\noels\source\repos\Hoofdstuk3\test\obj\Release\test.Properties.Resources.resources
+C:\Users\noels\source\repos\Hoofdstuk3\test\obj\Release\test.csproj.GenerateResource.Cache
+C:\Users\noels\source\repos\Hoofdstuk3\test\obj\Release\test.csproj.CoreCompileInputs.cache
+C:\Users\noels\source\repos\Hoofdstuk3\test\obj\Release\test.exe
+C:\Users\noels\source\repos\Hoofdstuk3\test\obj\Release\test.pdb
+C:\Users\noels\source\repos\Hoofdstuk3\test\obj\Release\test.csprojResolveAssemblyReference.cache

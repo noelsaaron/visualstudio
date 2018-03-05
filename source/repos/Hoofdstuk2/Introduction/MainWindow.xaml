@@ -1,0 +1,13 @@
+﻿<Window x:Class="Introduction.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Introduction"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid x:Name="button">
+        <Label x:Name="welkom" Content="hoofdstuk 1" HorizontalAlignment="Left" Height="34" Margin="155,132,0,0" VerticalAlignment="Top" Width="193"/>
+        <Button x:Name="dit" Content="Klikbox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="128" Margin="191,171,0,0" Height="62" Click="Button_Click" Background="#FFA68F00"/>
+    </Grid>
+</Window>
